@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "simulation.h"
-#include "hospitalLoader.h"
+#include "include/simulation.h"
+#include "include/hospitalLoader.h"
 
 // arguments = json_file, output_file, iterations, simulation_wait_time (s)
 int main(int argc, char* argv[]) {

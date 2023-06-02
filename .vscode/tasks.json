@@ -15,6 +15,7 @@
                 //Wersja dla Linuxa:
                 "-I${workspaceFolder}/vcpkg/installed/x64-linux/include",
                 "-L${workspaceFolder}/vcpkg/installed/x64-linux/lib",
+                "${workspaceFolder}/src/*.cpp",
                 "${workspaceFolder}/*.cpp",
                 "-ljsoncpp",
                 "-o",

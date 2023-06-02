@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../randomPatientGenerator.h"
+#include "../include/randomPatientGenerator.h"
 
 TEST_CASE("random patient generator tests", "[randomPatientGenerator]") {
     RandomPatientGenerator generator;

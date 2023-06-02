@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../generalRoom.h"
+#include "../include/generalRoom.h"
 
 TEST_CASE("general room simple tests", "[generalRoom]")
 {

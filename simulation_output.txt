@@ -1,55 +1,214 @@
 Date and time: 01.01.2023, 12:00
-Ambulance WA00001 went to the intervention. People inside:
-   Paramedic: Artur Malanowski (33445566778).
-   Paramedic: Ewa Paniewska (34567890000).
-   Patient: Krzysztof Zając (85282306216), 26 years old.
 
 Date and time: 01.01.2023, 12:15
-Patient: Teresa Lewandowska (59203968904), 13 years old. - just came to hospital.
-Ambulance WA00001 is in garage and returned from intervention.
-Patient: Krzysztof Zając (85282306216), 26 years old. - just came to hospital by ambulance.
-Patient: Krzysztof Zając (85282306216), 26 years old. - moved to general room generalRoom 1_id ID.
-Patient: Krzysztof Zając (85282306216), 26 years old. - moved to Treatment Room queue
 
 Date and time: 01.01.2023, 12:30
-Patient: Krzysztof Wróblewski (86939398622), 14 years old. - just came to hospital.
-Patient: Teresa Lewandowska (59203968904), 13 years old. - moved to general room generalRoom 1_id ID.
-Patient: Teresa Lewandowska (59203968904), 13 years old. - moved to Treatment Room queue
+1. Patient: Aleksandra Zawada (99358657066), 66 years old - just registered in reception.
+2. Patient: Aleksandra Zawada (99358657066), 66 years old - patient was moved to general room 803 (GR)
+3. Patient: Aleksandra Zawada (99358657066), 66 years old - patient was moved to CR queue.
+4. Patient: Aleksandra Zawada (99358657066), 66 years old is consulting with Anesthesiology doctor Jan Kowalski (12345678901) in room: 802 (CR)
 
 Date and time: 01.01.2023, 12:45
-Patient: Irena Baran (31117727189), 10 years old. - just came to hospital.
-Patient: Krzysztof Wróblewski (86939398622), 14 years old. - moved to general room generalRoom 1_id ID.
-Patient: Krzysztof Wróblewski (86939398622), 14 years old. - moved to Consultation Room queue
+1. Patient: Zofia Nowak (74956979792), 47 years old - just registered in reception.
+2. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Zofia Olszewska (58462867631), 62 years old
+3. Patient: Zofia Nowak (74956979792), 47 years old - patient was moved to general room 803 (GR)
+4. Patient: Zofia Nowak (74956979792), 47 years old - patient was moved to CR queue.
+5. Patient: Aleksandra Zawada (99358657066), 66 years old finished consultation with Anesthesiology doctor Jan Kowalski (12345678901) in room: 802 (CR)
+6. Patient: Aleksandra Zawada (99358657066), 66 years old found out that he/she will need a brain tumor removal.
+7. Patient: Aleksandra Zawada (99358657066), 66 years old - patient was moved back to general room after consultation.
 
 Date and time: 01.01.2023, 13:00
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. - just came to hospital.
-Patient: Irena Baran (31117727189), 10 years old. - moved to general room generalRoom 1_id ID.
-Patient: Irena Baran (31117727189), 10 years old. - moved to Treatment Room queue
+1. Patient: Anna Chmielewska (54135163424), 100 years old - just registered in reception.
+2. Ambulance WA00001 is in garage and returned from intervention.
+3. Patient: Zofia Olszewska (58462867631), 62 years old - patient was brought by ambulance.
+4. Patient: Zofia Olszewska (58462867631), 62 years old - patient was moved to general room 803 (GR)
+5. Patient: Aleksandra Zawada (99358657066), 66 years old - patient was moved to OR queue.
+6. Patient: Zofia Olszewska (58462867631), 62 years old - patient was moved to OR queue.
+7. Patient: Zofia Nowak (74956979792), 47 years old is consulting with Cardiology doctor Ola Pola (11223344556) in room: 802 (CR)
+8. Patient: Aleksandra Zawada (99358657066), 66 years old is being operated by Anesthesiology doctor Jan Kowalski (12345678901) and Neurology doctor Kuba Nowak (11334455667) in room: 801 (OR)
 
 Date and time: 01.01.2023, 13:15
-Patient: Barbara Jakubowska (60704033301), 80 years old. - just came to hospital.
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Andrzej Wilk (32770357740), 61 years old - just registered in reception.
+2. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Beata Woźniak (11713295335), 68 years old
+3. Patient: Anna Chmielewska (54135163424), 100 years old - patient was moved to general room 803 (GR)
+4. Patient: Anna Chmielewska (54135163424), 100 years old - patient was moved to OR queue.
 
 Date and time: 01.01.2023, 13:30
-Patient: Krystyna Pietrzak (31729260188), 82 years old. - just came to hospital.
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Witold Włodarczyk (21025724499), 57 years old - just registered in reception.
+2. Ambulance WA00001 is in garage and returned from intervention.
+3. Patient: Beata Woźniak (11713295335), 68 years old - patient was brought by ambulance.
+4. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Tomasz Wójcik (53480531540), 73 years old
+5. Patient: Beata Woźniak (11713295335), 68 years old - patient was moved to general room 804 (GR)
+6. Patient: Beata Woźniak (11713295335), 68 years old - patient was moved to OR queue.
+7. Patient: Aleksandra Zawada (99358657066), 66 years old finished operation with Anesthesiology doctor Jan Kowalski (12345678901) and Neurology doctor Kuba Nowak (11334455667) in room: 801 (OR)
+8. Patient: Aleksandra Zawada (99358657066), 66 years old - patient was moved back to general room after operation.
 
 Date and time: 01.01.2023, 13:45
-Patient: Bożena Dąbrowska (86139261490), 59 years old. - just came to hospital.
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Bożena Wilk (38723221927), 39 years old - just registered in reception.
+2. Ambulance WA00001 is in garage and returned from intervention.
+3. Patient: Tomasz Wójcik (53480531540), 73 years old - patient was brought by ambulance.
+4. Patient: Tomasz Wójcik (53480531540), 73 years old - patient was moved to general room 804 (GR)
+5. Patient: Aleksandra Zawada (99358657066), 66 years old - patient left hospital.
+6. Patient: Tomasz Wójcik (53480531540), 73 years old - patient was moved to OR queue.
+7. Patient: Zofia Olszewska (58462867631), 62 years old is being operated by Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Mikro Cypek (11554556670) in room: 801 (OR)
 
 Date and time: 01.01.2023, 14:00
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Krystyna Krawczyk (80309080260), 98 years old - just registered in reception.
+2. Patient: Andrzej Wilk (32770357740), 61 years old - patient was moved to general room 803 (GR)
+3. Patient: Andrzej Wilk (32770357740), 61 years old - patient was moved to CR queue.
+4. Patient: Zofia Nowak (74956979792), 47 years old finished consultation with Cardiology doctor Ola Pola (11223344556) in room: 802 (CR)
+5. Patient: Zofia Nowak (74956979792), 47 years old found out that he/she will need a heart transplant.
+6. Patient: Zofia Nowak (74956979792), 47 years old found out that he/she will need a brain tumor removal.
+7. Patient: Zofia Nowak (74956979792), 47 years old - patient was moved back to general room after consultation.
 
 Date and time: 01.01.2023, 14:15
-Patient: Magdalena Zalewska (36818320140), 63 years old. - just came to hospital.
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Zygmunt Wróbel (68649615183), 63 years old - just registered in reception.
+2. Patient: Witold Włodarczyk (21025724499), 57 years old - patient was moved to general room 804 (GR)
+3. Patient: Zofia Nowak (74956979792), 47 years old - patient was moved to OR queue.
+4. Patient: Witold Włodarczyk (21025724499), 57 years old - patient was moved to OR queue.
+5. Patient: Andrzej Wilk (32770357740), 61 years old is consulting with Gynecology doctor Mateusz Mateuszowski (11554556688) in room: 802 (CR)
 
 Date and time: 01.01.2023, 14:30
-Patient: Janina Tomaszewska (29517983438), 34 years old. - just came to hospital.
-Ambulance WA00001 went to the intervention. People inside:
-   Paramedic: Artur Malanowski (33445566778).
-   Paramedic: Ewa Paniewska (34567890000).
-   Patient: Wanda Nowak (06404560489), 37 years old.
-Patient: Bogusław Andrzejewski (60276248525), 2 years old. must wait in reception. No general rooms free at the moment!
+1. Patient: Maria Szczepańska (00872256343), 85 years old - just registered in reception.
+2. Patient: Bożena Wilk (38723221927), 39 years old - patient was moved to general room 804 (GR)
+3. Patient: Bożena Wilk (38723221927), 39 years old - patient was moved to OR queue.
+4. Patient: Zofia Olszewska (58462867631), 62 years old finished operation with Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Mikro Cypek (11554556670) in room: 801 (OR)
+5. Patient: Zofia Olszewska (58462867631), 62 years old - patient was moved back to general room after operation.
+
+Date and time: 01.01.2023, 14:45
+1. Patient: Danuta Czarnek (87471544982), 63 years old - just registered in reception.
+2. Patient: Krystyna Krawczyk (80309080260), 98 years old - patient was moved to general room 804 (GR)
+3. Patient: Zofia Olszewska (58462867631), 62 years old - patient left hospital.
+4. Patient: Krystyna Krawczyk (80309080260), 98 years old - patient was moved to OR queue.
+5. Patient: Anna Chmielewska (54135163424), 100 years old is being operated by Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Ola Pola (11223344556) in room: 801 (OR)
+
+Date and time: 01.01.2023, 15:00
+1. Patient: Zygmunt Wróbel (68649615183), 63 years old - patient was moved to general room 803 (GR)
+2. Patient: Zygmunt Wróbel (68649615183), 63 years old - patient was moved to CR queue.
+3. Patient: Andrzej Wilk (32770357740), 61 years old finished consultation with Gynecology doctor Mateusz Mateuszowski (11554556688) in room: 802 (CR)
+4. Patient: Andrzej Wilk (32770357740), 61 years old found out that he/she will need a heart transplant.
+5. Patient: Andrzej Wilk (32770357740), 61 years old - patient was moved back to general room after consultation.
+
+Date and time: 01.01.2023, 15:15
+1. Patient: Maria Szczepańska (00872256343), 85 years old - patient was moved to general room 804 (GR)
+2. Patient: Andrzej Wilk (32770357740), 61 years old - patient was moved to OR queue.
+3. Patient: Maria Szczepańska (00872256343), 85 years old - patient was moved to CR queue.
+4. Patient: Zygmunt Wróbel (68649615183), 63 years old is consulting with Neurology doctor Kuba Nowak (11334455667) in room: 802 (CR)
+
+Date and time: 01.01.2023, 15:30
+1. Patient: Danuta Czarnek (87471544982), 63 years old - patient was moved to general room 903 (GR)
+2. Patient: Danuta Czarnek (87471544982), 63 years old - patient was moved to CR queue.
+3. Patient: Zygmunt Wróbel (68649615183), 63 years old finished consultation with Neurology doctor Kuba Nowak (11334455667) in room: 802 (CR)
+4. Patient: Zygmunt Wróbel (68649615183), 63 years old found out that he/she will need a brain tumor removal.
+5. Patient: Zygmunt Wróbel (68649615183), 63 years old - patient was moved back to general room after consultation.
+6. Patient: Danuta Czarnek (87471544982), 63 years old is consulting with Cardiology doctor Mikro Cypek (11554556670) in room: 902 (CR)
+7. Patient: Anna Chmielewska (54135163424), 100 years old finished operation with Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Ola Pola (11223344556) in room: 801 (OR)
+8. Patient: Anna Chmielewska (54135163424), 100 years old - patient was moved back to general room after operation.
+
+Date and time: 01.01.2023, 15:45
+1. Patient: Zygmunt Wróbel (68649615183), 63 years old - patient was moved to OR queue.
+2. Patient: Anna Chmielewska (54135163424), 100 years old - patient left hospital.
+3. Patient: Maria Szczepańska (00872256343), 85 years old is consulting with Gynecology doctor Mateusz Mateuszowski (11554556688) in room: 802 (CR)
+4. Patient: Beata Woźniak (11713295335), 68 years old is being operated by Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Ola Pola (11223344556) in room: 801 (OR)
+
+Date and time: 01.01.2023, 16:00
+1. Patient: Wanda Rutkowska (89373776691), 68 years old - just registered in reception.
+2. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Aleksandra Sadowska (55513281158), 26 years old
+3. Patient: Wanda Rutkowska (89373776691), 68 years old - patient was moved to general room 803 (GR)
+4. Patient: Wanda Rutkowska (89373776691), 68 years old - patient was moved to CR queue.
+5. Patient: Maria Szczepańska (00872256343), 85 years old finished consultation with Gynecology doctor Mateusz Mateuszowski (11554556688) in room: 802 (CR)
+6. Patient: Maria Szczepańska (00872256343), 85 years old found out that he/she will need a heart transplant.
+7. Patient: Maria Szczepańska (00872256343), 85 years old - patient was moved back to general room after consultation.
+
+Date and time: 01.01.2023, 16:15
+1. Ambulance WA00001 is in garage and returned from intervention.
+2. Patient: Aleksandra Sadowska (55513281158), 26 years old - patient was brought by ambulance.
+3. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Beata Pawlak (68995894214), 93 years old
+4. Patient: Aleksandra Sadowska (55513281158), 26 years old - patient was moved to general room 903 (GR)
+5. Patient: Maria Szczepańska (00872256343), 85 years old - patient was moved to OR queue.
+6. Patient: Aleksandra Sadowska (55513281158), 26 years old - patient was moved to CR queue.
+7. Patient: Wanda Rutkowska (89373776691), 68 years old is consulting with Neurology doctor Kuba Nowak (11334455667) in room: 802 (CR)
+8. Patient: Danuta Czarnek (87471544982), 63 years old finished consultation with Cardiology doctor Mikro Cypek (11554556670) in room: 902 (CR)
+9. Patient: Danuta Czarnek (87471544982), 63 years old found out that he/she will need a heart transplant.
+10. Patient: Danuta Czarnek (87471544982), 63 years old - patient was moved back to general room after consultation.
+
+Date and time: 01.01.2023, 16:30
+1. Patient: Mirosław Górski (03904362733), 76 years old - just registered in reception.
+2. Ambulance WA00001 is in garage and returned from intervention.
+3. Patient: Beata Pawlak (68995894214), 93 years old - patient was brought by ambulance.
+4. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Janina Urbańska (00876118780), 31 years old
+5. Patient: Beata Pawlak (68995894214), 93 years old - patient was moved to general room 903 (GR)
+6. Patient: Danuta Czarnek (87471544982), 63 years old - patient was moved to OR queue.
+7. Patient: Beata Pawlak (68995894214), 93 years old - patient was moved to OR queue.
+8. Patient: Aleksandra Sadowska (55513281158), 26 years old is consulting with Gynecology doctor Mateusz Mateuszowski (11554556688) in room: 902 (CR)
+9. Patient: Beata Woźniak (11713295335), 68 years old finished operation with Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Ola Pola (11223344556) in room: 801 (OR)
+10. Patient: Beata Woźniak (11713295335), 68 years old - patient was moved back to general room after operation.
+11. Patient: Danuta Czarnek (87471544982), 63 years old is being operated by Anesthesiology doctor Jan Kowalski (12345678901) and Cardiology doctor Mikro Cypek (11554556670) in room: 901 (OR)
+
+Date and time: 01.01.2023, 16:45
+1. Patient: Stanisław Kamiński (76801932011), 36 years old - just registered in reception.
+2. Ambulance WA00001 is in garage and returned from intervention.
+3. Patient: Janina Urbańska (00876118780), 31 years old - patient was brought by ambulance.
+4. Patient: Janina Urbańska (00876118780), 31 years old - patient was moved to general room 903 (GR)
+5. Patient: Beata Woźniak (11713295335), 68 years old - patient left hospital.
+6. Patient: Janina Urbańska (00876118780), 31 years old - patient was moved to OR queue.
+7. There are no free doctors right now. Operation cannot start!
+
+Date and time: 01.01.2023, 17:00
+1. Patient: Jan Woźniak (58437196178), 46 years old - just registered in reception.
+2. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Marianna Szewczyk (44734465098), 6 years old
+3. Patient: Mirosław Górski (03904362733), 76 years old - patient was moved to general room 804 (GR)
+4. Patient: Mirosław Górski (03904362733), 76 years old - patient was moved to OR queue.
+5. There are no free doctors right now. Operation cannot start!
+
+Date and time: 01.01.2023, 17:15
+1. Ambulance WA00001 is in garage and returned from intervention.
+2. Patient: Marianna Szewczyk (44734465098), 6 years old - patient was brought by ambulance.
+3. Ambulance WA00001 went to the intervention. People inside:
+   Paramedic: Artur Makowski (33445566778)
+   Paramedic: Ewa Paniewska (34567890000)
+   Patient: Wacław Walczak (59169220514), 36 years old
+4. Patient: Marianna Szewczyk (44734465098), 6 years old - patient was moved to general room 904 (GR)
+5. Patient: Marianna Szewczyk (44734465098), 6 years old - patient was moved to OR queue.
+6. There are no free doctors right now. Operation cannot start!
+
+Date and time: 01.01.2023, 17:30
+1. Ambulance WA00001 is in garage and returned from intervention.
+2. Patient: Wacław Walczak (59169220514), 36 years old - patient was brought by ambulance.
+3. Patient: Wacław Walczak (59169220514), 36 years old - patient was moved to general room 904 (GR)
+4. Patient: Wacław Walczak (59169220514), 36 years old - patient was moved to OR queue.
+5. There are no free doctors right now. Operation cannot start!
+
+Date and time: 01.01.2023, 17:45
+1. Patient: Janusz Ostrowski (14996395115), 99 years old - just registered in reception.
+2. Patient: Stanisław Kamiński (76801932011), 36 years old - patient was moved to general room 904 (GR)
+3. Patient: Stanisław Kamiński (76801932011), 36 years old - patient was moved to OR queue.
+4. There are no free doctors right now. Operation cannot start!
+
+Date and time: 01.01.2023, 18:00
+1. Patient: Helena Nowakowska (35229260392), 42 years old - just registered in reception.
+2. Patient: Jan Woźniak (58437196178), 46 years old - patient was moved to general room 904 (GR)
+3. Patient: Jan Woźniak (58437196178), 46 years old - patient was moved to OR queue.
+4. There are no free doctors right now. Operation cannot start!
 

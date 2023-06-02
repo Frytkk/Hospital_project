@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../reception.h"
+#include "../include/reception.h"
 
 TEST_CASE("reception tests", "[reception]")
 {

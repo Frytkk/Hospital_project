@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../ambulance.h"
+#include "../include/ambulance.h"
 
 TEST_CASE("ambulance simple tests", "[ambulance]")
 {

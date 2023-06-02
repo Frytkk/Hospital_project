@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../human.h"
+#include "../include/human.h"
 
 TEST_CASE("human simple tests", "[human]")
 {

@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../randomNumberGenerator.h"
+#include "../include/randomNumberGenerator.h"
 
 TEST_CASE("random number generator simple tests", "[randomNumberGenerator]")
 {

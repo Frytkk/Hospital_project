@@ -1,5 +1,5 @@
 #include "catch_amalgamated.hpp"
-#include "../serviceDataBase.h"
+#include "../include/serviceDataBase.h"
 
 TEST_CASE("serviceDataBase simple tests", "[serviceDataBase]")
 {
